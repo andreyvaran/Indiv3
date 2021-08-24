@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mosco/CLionProjects/Indiv3/main.cpp
+iostream
+-
+test_pocti_unit.h
+C:/Users/mosco/CLionProjects/Indiv3/test_pocti_unit.h
+
+C:/Users/mosco/CLionProjects/Indiv3/my_tree_set.cpp
+my_tree_set.h
+C:/Users/mosco/CLionProjects/Indiv3/my_tree_set.h
+
+C:/Users/mosco/CLionProjects/Indiv3/my_tree_set.h
+vector
+-
+iostream
+-
+algorithm
+-
+
+C:/Users/mosco/CLionProjects/Indiv3/test_pocti_unit.h
+iostream
+-
+fstream
+-
+my_tree_set.h
+C:/Users/mosco/CLionProjects/Indiv3/my_tree_set.h
+cassert
+-
+
